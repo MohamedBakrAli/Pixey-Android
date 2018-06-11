@@ -8,4 +8,8 @@ An Android Application which support an Image Viewer facilities such as loading,
 * **Mohamed Murad** [MohamedMurad](https://github.com/MohamedMurad)
 * **Mohamed Bakr** [MohamedBakrAli](https://github.com/MohamedBakrAli)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 # Pixey-Android
